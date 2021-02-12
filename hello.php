@@ -4,6 +4,7 @@
 * Plugin Name: Test plugin
 * Plugin URI: https://nicpederson.com
 * GitHub Plugin URI: https://github.com/nicpederson/hello_world
+* Primary Branch: main2
 * Description: This plugin does some stuff with WordPress
 * Version: 1.0.3
 * Author: Nic
