@@ -5,7 +5,7 @@
 * Plugin URI: https://nicpederson.com
 * GitHub Plugin URI: https://github.com/nicpederson/hello_world
 * Description: This plugin does some stuff with WordPress
-* Version: 1.0.1
+* Version: 1.0.2
 * Author: Nic
 * Author URI: https://nicpederson.com
 * License: GPL2
