@@ -1,0 +1,29 @@
+{
+    "require": {
+        "nicpederson/hello_world": "^9"
+    },
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "nicpederson/hello_world",
+                "type": "wordpress-plugin",
+                "version": "0",
+                "require": {
+                    "composer/installers": "^1"
+                }
+            }
+        }
+    ],
+    "extra": {
+        "installer-paths": {
+            "wp-content/plugins/{$name}/": [
+                "type:wordpress-plugin"
+            ],
+            "wp-content/themes/{$name}/": [
+                "type:wordpress-theme"
+            ]
+        }
+    }
+}
