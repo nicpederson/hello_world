@@ -3,6 +3,7 @@
 /**
 * Plugin Name: Test plugin
 * Plugin URI: https://nicpederson.com
+* GitHub Plugin URI: https://github.com/nicpederson/hello_world
 * Description: This plugin does some stuff with WordPress
 * Version: 1.0.0
 * Author: Nic
